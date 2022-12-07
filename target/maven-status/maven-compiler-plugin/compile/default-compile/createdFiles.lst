@@ -1,0 +1,15 @@
+io/anu/vertx/crudapi/entity/Designation.class
+io/anu/vertx/crudapi/service/SignupService.class
+io/anu/vertx/crudapi/entity/Role.class
+io/anu/vertx/crudapi/repository/SignupDao.class
+io/anu/vertx/crudapi/repository/ProjectDao.class
+io/anu/vertx/crudapi/entity/Project.class
+io/anu/vertx/crudapi/entity/User.class
+io/anu/vertx/crudapi/service/DeployService.class
+io/anu/vertx/crudapi/repository/RoleDao.class
+io/anu/vertx/crudapi/Verticle.class
+io/anu/vertx/crudapi/repository/DeployDao.class
+io/anu/vertx/crudapi/entity/Department.class
+io/anu/vertx/crudapi/entity/Deploy.class
+io/anu/vertx/crudapi/service/ProjectService.class
+RedisConnect/RedisJava.class
